@@ -10,6 +10,8 @@
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.AssemblyInfo.cs
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.csproj.CoreCompileInputs.cache
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.MvcApplicationPartsAssemblyInfo.cache
+/Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.RazorAssemblyInfo.cache
+/Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.RazorAssemblyInfo.cs
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.sourcelink.json
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/staticwebassets.build.json
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/staticwebassets.development.json
