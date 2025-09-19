@@ -26,3 +26,6 @@
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.pdb
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/MyShop.genruntimeconfig.cache
 /Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/ref/MyShop.dll
+/Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/bin/Debug/net8.0/MyShop.staticwebassets.runtime.json
+/Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/emiliedufseth/Documents/AnvendtDatateknologi/5.semester/ITPE3200 - Webapplikasjoner/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css
